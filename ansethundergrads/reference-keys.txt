@@ -43,3 +43,13 @@ session-20-synthetic-cancer-microenvironments
 session-21-engineering-sex-specific-cardiac-disease
 session-22-future-lab-directions
 resources-for-effective-mentorshipspartnerships
+introduction-to-polymers-biomaterials-and-other-anseth-group-concepts-1
+introduction-1
+basic-principles-applicable-to-the-anseth-research-group-1
+dilution-buffer-solutions-and-pipetting-1
+biomaterials-1
+material-chemistry-properties-1
+extracellular-matrix-and-cell-receptors-1
+common-cell-types-1
+common-assays-1
+statistics-statistical-tests-1
