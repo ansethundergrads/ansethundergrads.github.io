@@ -42,3 +42,4 @@ session-19-medical-applications-of-synthetic-networks
 session-20-synthetic-cancer-microenvironments
 session-21-engineering-sex-specific-cardiac-disease
 session-22-future-lab-directions
+resources-for-effective-mentorshipspartnerships
